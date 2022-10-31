@@ -1,7 +1,9 @@
 # hello-world
-Yet Another Hello_world Or Ola_world_programmmmmmmmm
+Yet Another Hello_world Or Ola_world_program
 
 Psalm 23
+
+A psalm by David
 
 The Lord is my sheperd, I lack nothing.
  He makes me lie down in green pastures, 
@@ -24,3 +26,5 @@ Surely your goodness and love will follow me
  all the days of my life,
 and I will dwell in the house of the Lord 
 forever.
+
+
